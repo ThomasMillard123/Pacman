@@ -1,2 +1,2 @@
 # Pacman
-a simple Pacman based game made with SDL
+a simple Pacman based game made with S2D
